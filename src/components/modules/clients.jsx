@@ -189,9 +189,7 @@ class Clientes extends React.Component {
     return (
       <>
         <Container>
-          <div className="d-flex justify-content-center mb-3">
-            <h1 className="text-center border p-2">Clientes</h1>
-          </div>
+          <p></p>
           <div className="d-flex justify-content-between mb-3">
           <Input
               type="text"
